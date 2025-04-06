@@ -1,0 +1,9 @@
+# Игнорировать heavy файлы
+binary/
+cache/
+chroot/
+*.iso
+*.zsync
+*.files
+*.contents
+*.packages

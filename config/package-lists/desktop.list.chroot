@@ -1,0 +1,11 @@
+# Основной GNOME и сетевые пакеты
+gnome-core
+network-manager
+sudo
+xserver-xorg
+firmware-linux
+firmware-iwlwifi
+firmware-realtek
+gnome-terminal
+firefox-esr
+gnome-software
